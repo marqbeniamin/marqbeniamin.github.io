@@ -1,4 +1,4 @@
-# A Complete Quide to The Flexible Box Module (flexbox)
+# CSS Flexbox: A Complete Guide with Examples
 
 
 ## Introduction
