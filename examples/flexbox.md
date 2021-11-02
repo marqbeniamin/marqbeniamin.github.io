@@ -31,12 +31,12 @@ If you want to check on which browsers and versions flexbox is supported, you ca
 ### Bootstrap
 This front-end open source toolkit helps you to design and customize responsive webpages using Sass variables and mixings, responsive grid system and so much more. The pre-build full suite of responsive flexbox utilities gives you the power to manage the layout, 	alignment, sizing of grid columns and many others, which makes Bootstrap one of the most popular CSS framework.
 
-If you want to create complex and innovative designs, check our latest Premium Bootstrap 5 UI Kit: https://www.creative-tim.com/product/soft-ui-design-system-pro 
+If you want to create complex and innovative designs, check our latest Premium Bootstrap 5 UI Kit: [https://www.creative-tim.com/product/soft-ui-design-system-pro](https://www.creative-tim.com/product/soft-ui-design-system-pro)
 
 ### Tailwindcss
 This utility-first CSS framework based on flexbox helps you to build any design directly in your markup. It's biggest advantage is that you can rapidly create modern websites without 	leaving your HTML code. It's also easy to customize and adapts to any design.
 
-If you need a components library for tailwind css, you can check the below product: https://www.creative-tim.com/product/notus-pro-react
+If you need a components library for tailwind css, you can check the below product:[https://www.creative-tim.com/product/notus-pro-react](https://www.creative-tim.com/product/notus-pro-react)
 
 ### Bulma
 This open source CSS framework is build with Sass and it's based on flexbox. Among it's advantages is that it's available for free and be used to build 100% responsive webpages. It's also fully modular, which allows you to import only what you need from the 29 SASS files that you can import individually. 
