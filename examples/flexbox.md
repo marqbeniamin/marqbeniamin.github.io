@@ -36,7 +36,7 @@ If you want to create complex and innovative designs, check our latest Premium B
 ### Tailwindcss
 This utility-first CSS framework based on flexbox helps you to build any design directly in your markup. It's biggest advantage is that you can rapidly create modern websites without 	leaving your HTML code. It's also easy to customize and adapts to any design.
 
-If you need a components library for tailwind css, you can check the below product:[https://www.creative-tim.com/product/notus-pro-react](https://www.creative-tim.com/product/notus-pro-react)
+If you need a components library for tailwind css, you can check the below product: [https://www.creative-tim.com/product/notus-pro-react](https://www.creative-tim.com/product/notus-pro-react)
 
 ### Bulma
 This open source CSS framework is build with Sass and it's based on flexbox. Among it's advantages is that it's available for free and be used to build 100% responsive webpages. It's also fully modular, which allows you to import only what you need from the 29 SASS files that you can import individually. 
