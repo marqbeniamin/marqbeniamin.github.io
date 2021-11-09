@@ -2,6 +2,8 @@
 
 Do you want to become a front-end developer? This is the right place.
 
+![Frontend Developer Roadmap](https://images.unsplash.com/photo-1549082984-1323b94df9a6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2670&q=80)
+
 ## Introduction
 You scoured the internet and couldn't find a clear answer to what is front-end development and how can you become a front-end developer? The purpose of this article is to put your thoughts in order, to establish the point from which you start, and to get a vision of what the frontend-developer branch means.
 
@@ -30,6 +32,9 @@ Over the years, many frameworks have been developed, both for CSS and Javascript
 Short Definition: Front-end developers create and optimize the website interface and make sure the elements look great on all devices: smartphones, tablets, and desktops.
 
 ## 6 Steps to Become a Front-end Developer
+
+![6 Steps to Become a Front-end Developer](https://images.unsplash.com/photo-1448387473223-5c37445527e7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1800&q=80)
+
 ### 1. Good to Know Stuff
 
 In order to better understand what is presented in this article, it is good to find answers to the following questions and to know, at a basic level, the following terms. These skills are not necessary, but they will definitely help you in your journey.
@@ -45,6 +50,8 @@ With the answers to these questions, we begin our journey to become a front-end 
 
 ### 2. Learn the basics - Html, CSS and Javascript
 
+![Learn the basics - Html, CSS and Javascript](https://images.unsplash.com/photo-1505238680356-667803448bb6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2670&q=80)
+
 As I said at the beginning of this article, a front-end developer first learns the three basic languages: HTML, CSS, and Javascript.
 
 #### HTML
@@ -59,6 +66,9 @@ SCSS - Syntactically Awesome Style Sheets is a preprocessor stylesheet language 
 JavaScript is one of the most popular programming languages in the world. It is the language of the web. When it comes to JavaScript, you need to learn the basics first. Things like variables, data types, functions, arrays, objects, and more. You also need to learn about how to manipulate the DOM and many more.
 
 ### 3. CSS Positioned Layout
+
+![CSS Positioned Layout](https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80)
+
 After learning the basics of programming languages, we need to learn how to position the elements on the web page. Once the elements are arranged on the page, the users of the site will understand the content and will go through it very easily. This positioning of the elements is called **Layout**.
 
 #### Layouts
@@ -75,6 +85,9 @@ For inspiration, you can check these links:
 - [Admin and Dashboards](https://www.creative-tim.com/templates/admin-dashboard?ref=ct-blog)
 
 ### 4. Intermediate - Package Manager and CSS frameworks
+
+![Intermediate - Package Manager and CSS frameworks](https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2671&q=80)
+
 Before explaining what a CSS framework is and listing the 3 most popular frameworks, you need to familiarize yourself with the term "package manager".
 
 ####  Package Manager
@@ -94,6 +107,8 @@ To solve this problem, CSS frameworks have been developed. Once written a CSS ca
 
 ### 5. Middle - javascript Frameworks
 
+![Middle - javascript Frameworks](https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2670&q=80)
+
 After going through the CSS Framework part, the Javascript Frameworks presentation follows. In this part, I will present the most popular frameworks for web, mobile, and desktop.
 
 #### Web Frameworks
@@ -112,6 +127,9 @@ Flutter - is Google's UI toolkit for building beautiful, natively compiled appli
 Electron - is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS. It takes care of the hard parts so you can focus on the core of your application.
  
 ### 6. Advanced - hybrid static & server rendering
+
+![Advanced - hybrid static & server rendering](https://images.unsplash.com/photo-1573164713988-8665fc963095?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2669&q=80)
+
 A static site generator is a tool that generates a full static HTML website based on raw data and a set of templates. Essentially, a static site generator automates the task of coding individual HTML pages and gets those pages ready to serve to users ahead of time.
 
 Next - is the React framework to pick when you need consistently fast front-end rendering in complex pages. 
